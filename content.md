@@ -8,6 +8,7 @@ theme: sky
 config:
     - hash: true
     - toto: false
+showNotes: true
 ---
 
 # In the morning
