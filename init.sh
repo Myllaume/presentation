@@ -1,0 +1,1 @@
+cd reveal && npm install
