@@ -5,9 +5,6 @@ description: >-
     pour les métadonnées
 author: Guillaume Brioudes
 theme: sky
-config:
-    - hash: true
-    - toto: false
 showNotes: true
 ---
 
