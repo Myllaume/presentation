@@ -7,6 +7,7 @@ pandoc.sh
 
 ```
 cd reveal && npm start
+nodemon content.md --exec "sh pandoc.sh"
 ```
 
 Write content on `content.md`.
