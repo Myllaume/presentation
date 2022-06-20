@@ -1,6 +1,10 @@
 ## Go
 
 ```
+git clone --recurse-submodules https://github.com/Myllaume/presentation/ presentation
+```
+
+```
 init.sh
 pandoc.sh
 ```
